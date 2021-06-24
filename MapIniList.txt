@@ -1,0 +1,68 @@
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\createahero\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map advanced tutorial\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map beginner tutorial\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map evil erebor\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map evil fornost\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map evil grey havens\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map evil lorien\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map evil mirkwood\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map evil rivendell\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map evil shire\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map evil withered heath\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map good blue mountain\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map good celduin\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map good dol guldur\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map good erebor\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map good ettenmoors\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map good grey havens\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map good high pass\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map good rivendell\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map mp evendim\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map mp fords of isen ii\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map mp grey mountains\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map mp harlindon\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map mp tournament hills\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map mp tournament udun\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map mp weather hills\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map mp withered heath\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor arnor\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor black gate\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor buckland\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor cair andros\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor celduin\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor dagorlad\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor dead marshes\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor dol guldur\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor dunland\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor enedwaith\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor erebor\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor ettenmoors\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor fangorn\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor forlindon\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor gap of rohan\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor gondor\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor grey havens\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor harad\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor harlindon\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor helms deep\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor high pass\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor iron hills\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor isengard\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor ithilien\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor lorien\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor minas morgul\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor minas tirith\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor minhiriath\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor mirkwood\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor mordor\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor mount doom\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor osgiliath\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor redhorn pass\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor rhun\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor rivendell\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor rohan\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor shire\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor tower hills\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\map wor withered heath\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\shellmap1\map.ini
+C:\Users\Maxi\Desktop\Projekte\BFME-FPS-MOD-UPDATER-TOOL\EXTRACTED-MOD\maps\shellmapbackup\map.ini
