@@ -9,3 +9,5 @@ Usage:
 How does this work:
 - It enables 60 fps
 - The important part: It replaces all time, rate and speed related values with ones recduced by 50%. The values get calculated during the run of the tool so it can work with any mod.
+
+Note: This repo won't get any more updates since a new project with a engine altering approach is on the horizon: https://github.com/MetaIdea/SageMetaTool
